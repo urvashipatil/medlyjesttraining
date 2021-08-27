@@ -1,0 +1,9 @@
+.todo-item {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px solid gray;
+}
+
+.todo-list {
+  text-align: left;
+}
